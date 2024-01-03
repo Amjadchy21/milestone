@@ -1,0 +1,41 @@
+.b1{
+    background-color: burlywood;
+    box-shadow: 10px 10px 10px darkred;
+}
+.b2{
+    background-color: blueviolet;
+    box-shadow: 10px 10px 10px rgb(255, 251, 0);
+    /* visibility: hidden; */
+    /* display: none; */
+}
+#blog{
+    border: 5px solid tomato;
+    border-radius: 10px;
+    border-bottom: none;
+    border-right: none;
+    margin: 20px 10px;
+    padding: 10px 5px 10px;
+}
+h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+li{
+    text-decoration: overline;
+}
+.head{
+    background-image: url(../html/images/developer.png);
+    /* background-size: 500px; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 500px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
